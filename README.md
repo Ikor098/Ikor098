@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Ikor098
-- 👀 I’m interested in trading 
-- 🌱 I’m currently learning programming 
+- 👋 Hi, I’m @michael
+- 👀 I’m interested in ethical wallet security 
+- 🌱 I’m currently learning ethicalwalletsec 
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me +2348071263521
-- 😄 Pronouns: ...ikor
+- 😄 Pronouns: ... Mike 
 - ⚡ Fun fact: ...nil
 
 <!---
